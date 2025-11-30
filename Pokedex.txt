@@ -9,7 +9,7 @@ ID	Nombre		Tipo
 0008 	Wartortle 	Agua 	
 0009 	Blastoise 	Agua
 0010	Pikachu		Rayo		
-0011			
+0011	Ivysaur    Normal		
 0012			
 0013			
 0014			
